@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VoramCore",
-            url: "https://github.com/armongate-dev/mobileaccess-core/releases/download/0.0.2-beta.25/VoramCore-0.0.2-beta.25.xcframework.zip",
-            checksum: "42a89bc9ea0fe6c3f19fb716ca49a2f272d77c7aa4cd50d1b01a486451680265"
+            url: "https://github.com/armongate-dev/mobileaccess-core/releases/download/0.0.2-beta.26/VoramCore-0.0.2-beta.26.xcframework.zip",
+            checksum: "f34a7ec1643d504b70839f1399bffd8b998118901fcac2b2561da070e61e9cb8"
         )
     ]
 )
