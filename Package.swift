@@ -1,4 +1,4 @@
-// swift-tools-version: 5.1
+// swift-tools-version: 5.7
 import PackageDescription
 
 let package = Package(
@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VoramCore",
-            url: "https://github.com/armongate-dev/mobileaccess-core/releases/download/0.0.5/VoramCore-0.0.5.xcframework.zip",
-            checksum: "865f4538813fadfc2c38baf13fe1d9af2290e4bfdcf13339cb49a17ebdc4ee40"
+            url: "https://github.com/armongate-dev/mobileaccess-core/releases/download/0.0.5-beta1/VoramCore-0.0.5-beta1.xcframework.zip",
+            checksum: "94f246f2fd6b4bd8771d7290dcf17dcabf17a0c36469e147ac16b593c9977b37"
         )
     ]
 )
